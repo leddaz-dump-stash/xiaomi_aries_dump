@@ -1,0 +1,14 @@
+# aries-user 5.0.2 LRX22G 7.11.16 release-keys
+- manufacturer: xiaomi
+- platform: msm8960
+- codename: aries
+- flavor: user
+- release: 5.0.2
+- id: LRX22G
+- incremental: 7.11.16
+- tags: release-keys
+- fingerprint: Xiaomi/aries/aries:5.0.2/LRX22G/7.11.16:user/release-keys
+- is_ab: false
+- brand: Xiaomi
+- branch: aries-user-5.0.2-LRX22G-7.11.16-release-keys
+- repo: xiaomi_aries_dump
